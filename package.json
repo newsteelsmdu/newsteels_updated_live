@@ -1,0 +1,12 @@
+{
+  "name": "newsteels-website-tests",
+  "version": "1.0.0",
+  "description": "Playwright tests for NEW STEELS website UI",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0"
+  }
+}
