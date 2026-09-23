@@ -3,7 +3,7 @@
 // No need to touch index_1.html for price updates.
 
 const PRODUCTS = [
-    { id: "3l",  size: "small",  name: "3L Handle",  price: " Wholesale Pricing Available / Get latest price based on quantity" },
+    { id: "3l",  size: "small",  name: "3L Handle",  price: " Wholesale Pricing Available -> Price varies based on quantity & specification" },
     { id: "5l",  size: "small",  name: "5L Handle",  price: " Wholesale Pricing Available -> Price varies based on quantity & specification" },
     { id: "9l",  size: "medium", name: "9L Handle",  price: " Wholesale Pricing Available -> Price varies based on quantity & specification" } ,
     { id: "10l", size: "medium", name: "10L Handle", price: " Wholesale Pricing Available -> Price varies based on quantity & specification" },
